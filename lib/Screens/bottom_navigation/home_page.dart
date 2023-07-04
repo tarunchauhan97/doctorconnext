@@ -28,7 +28,7 @@ class _HomePageState extends State<HomePage> {
               height:30,
               width: 30,
               child: Image.asset(
-                'assets/images/logo docbot.png',
+                'assets/images/logo doctorconnext.png',
               ),
             ),
           ),

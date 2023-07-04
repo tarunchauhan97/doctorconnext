@@ -38,7 +38,7 @@ class TCAlertDialog extends StatelessWidget {
                 ),
                 //const SizedBox(height: 10.0),
                 Text(
-                    "New patient will abide the Terms and Conditions of DOCBOT",
+                    "New patient will abide the Terms and Conditions of doctorconnext",
                     textAlign: TextAlign.center),
                 Padding(
                   padding: const EdgeInsets.fromLTRB(0, 16, 0, 8),

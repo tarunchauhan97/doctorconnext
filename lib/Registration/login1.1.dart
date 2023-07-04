@@ -44,13 +44,13 @@ class _LogInState extends State<LogIn> {
                           Padding(
                             padding: const EdgeInsets.all(10.0),
                             child: Image.asset(
-                              'assets/images/logo docbot.png',
+                              'assets/images/logo doctorconnext.png',
                               height: 110,
                               width: 110,
                             ),
                           ),
                           Text(
-                            'DOCBOT',
+                            'doctorconnext',
                             style: TextStyle(
                                 fontFamily: 'Poppins',
                                 fontWeight: FontWeight.w600,
