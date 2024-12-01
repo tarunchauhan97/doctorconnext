@@ -12,6 +12,7 @@
 
 
 
+
 | OnBoarding Screen                                              |                                                   Login                                      |
 |:----------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------:|
 | <img width alt="Screen Shot 2020-09-17 at 3 26 13 PM" src="https://github.com/tarunchauhan97/doctorconnext/assets/30916033/4e6f8e29-bf5a-40ba-b8fa-57f48c865af9">|<img alt="Screen Shot 2020-09-17 at 3 35 48 PM" src="https://github.com/tarunchauhan97/doctorconnext/assets/30916033/00b9a61b-d32a-4293-a3a4-bfc7ed6e1c6c">|
