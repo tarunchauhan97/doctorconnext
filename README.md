@@ -19,6 +19,7 @@
 
 
 
+
 |  Enter OTP                                        |                                                   Dialog                                 |
 |:----------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------:|
 | <img width alt="Screen Shot 2020-09-17 at 3 26 13 PM" src="https://github.com/tarunchauhan97/doctorconnext/assets/30916033/703c1d8d-cf68-4c1f-81c2-cf882dd65e95">|<img alt="Screen Shot 2020-09-17 at 3 35 48 PM" src="https://github.com/tarunchauhan97/doctorconnext/assets/30916033/c25d621b-3a89-4c84-82b2-0acbe2825dc1">|
