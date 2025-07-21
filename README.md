@@ -5,7 +5,6 @@
 
 
 
-
 ## 📱 Screenshots
 
 |  OnBoarding Screen                                              |                                                   OnBoarding                                    |
