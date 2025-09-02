@@ -4,7 +4,6 @@
 
 
 
-
 ## 📱 Screenshots
 
 |  OnBoarding Screen                                              |                                                   OnBoarding                                    |
